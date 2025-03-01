@@ -66,7 +66,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/naynay111222333/AviaxMusic && cd AviaxMusic
    ```
 6. **Install Requirements**
    ```bash
